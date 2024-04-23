@@ -1,2 +1,2 @@
 # Java-Project-part-1
-Basically implimenting Java oop
+Run "Main.java" for runing the software
